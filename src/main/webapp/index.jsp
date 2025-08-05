@@ -23,8 +23,8 @@
   <body>
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
-      <h1 class="display-4">Hello DevOps Students of RMIT Vietnam, my name is John Tran hehehe!!</h1>
-      <p class="lead">I like playing tft btw!</p>
+      <h1 class="display-4">If you are reading this it's too late 😔</h1>
+      <p class="lead">okay okay okay okay</p>
       <p class="lead">
         This is a very simple website template that uses bootstrap CSS
         framework!
