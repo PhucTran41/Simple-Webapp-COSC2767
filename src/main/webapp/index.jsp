@@ -23,7 +23,7 @@
   <body>
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
-      <h1 class="display-4">If you are reading this it's too late! 😔</h1>
+      <h1 class="display-4">If you are reading this it's too late! I stg if this still doesn't work imma lose it 😔</h1>
       <p class="lead">okay okay okay okay</p>
       <p class="lead">
         This is a very simple website template that uses bootstrap CSS
